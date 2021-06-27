@@ -1,0 +1,48 @@
+body{
+    background-color: bisque;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    margin: auto;
+    width: 50%;
+    padding: 16px;
+    background-color: white;
+    box-shadow: 20px 20px 20px 0px rgba(0, 0, 0, 5) ;
+}
+
+input[type="text"],
+input[type="password"]
+{
+    width: 100%;
+    padding: 20px;
+    margin: 5px,0px,22px,0px;
+    display: inline-block;
+    border: none;
+    background: whitesmoke;
+
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus
+{
+    background-color: turquoise;
+    outline: none;
+}
+
+.eregisterbtn{
+    background-color: teal;
+    padding: 20px;
+    color: white;
+    cursor: pointer;
+    border: none;
+    margin: auto;
+    width: 100%;
+    opacity: 0.8;
+}
+.eregisterbtn:hover{
+    opacity: 1;
+}
