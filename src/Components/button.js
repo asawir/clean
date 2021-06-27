@@ -1,5 +1,5 @@
 import React from 'react';
-import  'g:/reactjskprojects/calculator/node_modules/bootstrap/dist/css/bootstrap.min.css';
+// import  'g:/reactjskprojects/calculator/node_modules/bootstrap/dist/css/bootstrap.min.css';
 
 
 
